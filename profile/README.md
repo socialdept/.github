@@ -8,7 +8,7 @@ We're a product design & development studio focused on building products and too
 
 Below is a list of products we've built:
 
-| Package                                      | Description                                                                                |
+| Product                                      | Description                                                                                |
 |----------------------------------------------|--------------------------------------------------------------------------------------------|
 | [**Offprint**](https://offprint.app)         | Publishing platform for longform content deeply integrated with the AT Protocol ecosystem. |
 | [**Social Headers**](https://headers.social) | Growing & curated directory of the best designed profile banners across the ATmosphere.    |
