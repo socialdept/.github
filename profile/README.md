@@ -2,6 +2,13 @@
 
 We're a product design & development studio focused on building products and tools for the social web. Developing high-quality open-source packages and services designed to support emerging web standards, specializing in AT Protocol.
 
+### Technology Focus
+
+- AT Protocol
+- Laravel, Inertia & PHP
+- Vue.js & TypeScript
+- Cloudflare Workers
+
 ---
 
 ### Product Lineup
@@ -30,12 +37,3 @@ Below is a list of core repositories we've published:
 | [**forward.direct**](https://github.com/socialdept/forward.direct) | Open source request forwarding webservice built on Cloudflare Workers. Inspired by [fwd.host](https://fwd.host) by Laravel Herd. |
 
 We're always developing more Laravel packages as we find lack-luster or no solutions available in the ecosystem.
-
----
-
-### Technology Focus
-
-- AT Protocol
-- Laravel, Inertia & PHP
-- Vue.js & TypeScript
-- Cloudflare Workers
