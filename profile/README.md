@@ -1,13 +1,6 @@
 ## Social Dept.
 
-We're a product design & development studio focused on building products and tools for the social web. Developing high-quality open-source packages and services designed to support emerging web standards, specializing in AT Protocol.
-
-### Technology Focus
-
-- AT Protocol
-- Laravel, Inertia & PHP
-- Vue.js & TypeScript
-- Cloudflare Workers
+We're a product design & development studio focused on building products and tools for the social web. Developing high-quality open-source packages and services designed to support emerging web standards. Specializing in AT Protocol, Laravel (VILT stack), TypeScript and Cloudflare Workers.
 
 ---
 
